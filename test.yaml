@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><p><script>'document.write('<p><iframe src="https://www.youtube.com/" height=100 width=100</p>')'</script></p>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><p><script>document.write('<p><iframe src="https://www.youtube.com/" height=100 width=100</p>')</script></p>">
 paths:
   /accounts:
     get:
